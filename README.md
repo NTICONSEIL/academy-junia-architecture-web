@@ -134,4 +134,4 @@ Pour toute question concernant le cours ou le projet, contacter l'équipe pédag
 
 ---
 
-> 💜🧡 **JUNIA — Architecture Web AP3** | Branche `academy`
+>  **JUNIA — Architecture Web ISEN-AP3** | Branche `academy`
