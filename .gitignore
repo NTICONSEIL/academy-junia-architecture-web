@@ -1,0 +1,42 @@
+# === Système ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Éditeurs ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === Fichiers temporaires ===
+*.log
+*.tmp
+*.bak
+*.cache
+
+# === Office (fichiers de verrouillage) ===
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# === Node (si projets JS étudiants) ===
+node_modules/
+package-lock.json
+npm-debug.log
+
+# === PHP / Composer ===
+vendor/
+composer.lock
+.env
+.env.local
+
+# === Fichiers de configuration locale ===
+config.local.php
+*.local.json
+
+# === Médias étudiants (à ne pas pousser) ===
+# Décommenter si besoin
+# *.mp4
+# *.zip
