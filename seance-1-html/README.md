@@ -1,6 +1,6 @@
 # 🌐 Séance 1 — Introduction au Web et HTML
 
-> **Durée :** 4h | **Format :** Cours + TP guidé
+> **Durée :** 2h | **Format :** Cours + TP guidé
 
 ---
 
