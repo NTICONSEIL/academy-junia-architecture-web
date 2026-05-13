@@ -1,4 +1,4 @@
-# ⚡ Cours JavaScript — Architecture Web AP3
+# ⚡ Cours JavaScript — Architecture Web ISEN-AP3
 
 > **JUNIA — Séance 2** | Bases du langage, manipulation du DOM, événements et préparation à l'asynchrone (fetch/AJAX)
 > Application directe au projet de plateforme de centralisation des CV étudiants.
@@ -1478,4 +1478,4 @@ Tout ce qui a été vu sera mobilisé dans la **plateforme de centralisation des
 
 ---
 
-> 💜🧡 **JUNIA — Architecture Web AP3** | Séance 2 : JavaScript — Document pédagogique de référence
+>  **JUNIA — Architecture Web AP3** | Séance 2 : JavaScript — Document pédagogique de référence
