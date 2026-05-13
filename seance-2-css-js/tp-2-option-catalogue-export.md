@@ -1,7 +1,7 @@
 # 🚀 TP 2 bis — Catalogue côté entreprise + Export/Import JSON
 
 > **Pour qui ?** Étudiants ayant terminé le TP 2 en avance
-> **Durée :** 2h30 à 3h | **Format :** TP guidé avec parts d'autonomie
+> **Durée :** 1h à 1h30 | **Format :** TP guidé avec parts d'autonomie
 > **Prérequis :** TP 2 terminé (`formulaire.html` fonctionnel avec aperçu et localStorage)
 
 ---
