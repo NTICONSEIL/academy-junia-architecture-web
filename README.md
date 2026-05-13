@@ -67,6 +67,7 @@ junia-architecture-web/
 Avant de commencer le cours, les étudiants doivent installer :
 
 - **XAMPP** (Apache + PHP + MySQL) — [apachefriends.org](https://www.apachefriends.org/fr/index.html)
+- Docker Desktop (pour la séance 3 PHP/MySQL) — docker.com/products/docker-desktop
 - Un **éditeur de code** : Visual Studio Code recommandé
 - Un **navigateur moderne** : Chrome, Firefox ou Edge à jour
 - Un **compte GitHub** pour la collaboration en trinôme
