@@ -1,19 +1,19 @@
-# 🎨 Cours CSS — Architecture Web AP3
+# 🎨 Cours CSS — Architecture Web ISEN-AP3
 
-> **JUNIA — Architecture Web AP3** | Compilation des séances 3, 4 et 5
+> **JUNIA — Architecture Web ISEN-AP3** 
 > Couvre l'introduction au CSS, les effets avancés, le modèle de boîte, Flexbox et CSS Grid.
 
 ---
 
 ## 📚 Sommaire général
 
-- **[Séance 3 — Introduction au CSS et Mise en Forme](#séance-3--introduction-au-css-et-mise-en-forme)**
-- **[Séance 4 — Bordures, Ombres, Effets et Modèle de Boîte CSS](#séance-4--bordures-ombres-effets-et-modèle-de-boîte-css)**
-- **[Séance 5 — Mise en Page Moderne : Flexbox et CSS Grid](#séance-5--mise-en-page-moderne--flexbox-et-css-grid)**
+- **[Partie 1 - Introduction au CSS et Mise en Forme](#séance-3--introduction-au-css-et-mise-en-forme)**
+- **[Partie 2 - Bordures, Ombres, Effets et Modèle de Boîte CSS](#séance-4--bordures-ombres-effets-et-modèle-de-boîte-css)**
+- **[Partie 3 - Mise en Page Moderne : Flexbox et CSS Grid](#séance-5--mise-en-page-moderne--flexbox-et-css-grid)**
 
 ---
 
-# Séance 3 — Introduction au CSS et Mise en Forme
+# Introduction au CSS et Mise en Forme
 
 ## 📋 Au Programme
 
@@ -240,40 +240,10 @@ header {
 }
 ```
 
-> 💜🧡 **Astuce JUNIA :** Utilisez un dégradé orange → violet pour rester fidèle à la charte graphique de l'école.
+> **Astuce JUNIA :** Utilisez un dégradé orange → violet pour rester fidèle à la charte graphique de l'école.
 
 ---
 
-## 🏆 Défi Pratique en Binôme
-
-### Objectif : Transformer une page "moche" en page professionnelle
-
-**Durée :** 1h30
-
-### Instructions
-
-1. Téléchargez le fichier HTML de départ (fourni par le professeur)
-2. Créez un fichier CSS externe et liez-le au HTML
-3. Appliquez les consignes suivantes
-
-### Consignes de style
-
-- ✅ Choisir une palette de 3 couleurs harmonieuses
-- ✅ Appliquer une police personnalisée (Google Fonts)
-- ✅ Styliser les titres (taille, couleur, espacement)
-- ✅ Améliorer la lisibilité des paragraphes (`line-height`, couleur)
-- ✅ Ajouter une couleur de fond à la page
-- ✅ Créer un header avec un fond coloré ou dégradé
-- ✅ Styliser les liens (couleur, soulignement au survol)
-
-### Points d'évaluation (40%)
-
-- Utilisation correcte du CSS externe
-- Harmonie des couleurs
-- Lisibilité et propreté du code
-- Créativité et esthétique finale
-
----
 
 ## ✅ Bonnes Pratiques CSS
 
@@ -339,7 +309,7 @@ main {
 
 ---
 
-## 📝 Récapitulatif Séance 3
+## 📝 Récapitulatif de cette partie
 
 ### Introduction au CSS
 
@@ -359,7 +329,7 @@ main {
 
 ---
 
-# Séance 4 — Bordures, Ombres, Effets et Modèle de Boîte CSS
+# Bordures, Ombres, Effets et Modèle de Boîte CSS
 
 ## 🎯 Objectifs
 
@@ -585,7 +555,7 @@ box-sizing: border-box;
 
 ---
 
-## 📝 Résumé Séance 4
+## 📝 Résumé de cette partie
 
 Points clés à retenir :
 
@@ -601,7 +571,7 @@ Points clés à retenir :
 
 ---
 
-# Séance 5 — Mise en Page Moderne : Flexbox et CSS Grid
+# Mise en Page Moderne : Flexbox et CSS Grid
 
 ## 🎯 Objectifs
 
@@ -924,7 +894,7 @@ Exemple de structure de page classique avec Grid :
 
 ---
 
-## 📝 Résumé Séance 5
+## 📝 Résumé de cette partie
 
 - **Flexbox :** mises en page **1D**, distribution, centrage
 - **Grid :** mises en page **2D**, layouts, galeries
@@ -941,13 +911,13 @@ Exemple de structure de page classique avec Grid :
 
 # 🎓 Synthèse globale du cours CSS
 
-## Compétences acquises à l'issue des 3 séances
+## Compétences acquises
 
-| Séance | Compétences |
+| Parties | Compétences |
 |--------|-------------|
-| **Séance 3** | Comprendre le rôle du CSS, écrire la syntaxe de base, utiliser sélecteurs, stylisation typographique et chromatique |
-| **Séance 4** | Bordures, ombres, transitions, effets au survol, modèle de boîte, `box-sizing` |
-| **Séance 5** | Mise en page moderne avec Flexbox (1D) et CSS Grid (2D), responsive design |
+| **Partie 1** | Comprendre le rôle du CSS, écrire la syntaxe de base, utiliser sélecteurs, stylisation typographique et chromatique |
+| **Partie 2** | Bordures, ombres, transitions, effets au survol, modèle de boîte, `box-sizing` |
+| **Partie 3** | Mise en page moderne avec Flexbox (1D) et CSS Grid (2D), responsive design |
 
 ## 🎯 Application au projet JUNIA
 
@@ -991,8 +961,8 @@ Toutes ces compétences seront mobilisées dans le cadre du projet de **platefor
 
 ## 🎯 Évaluation
 
-La maîtrise de ces compétences sera évaluée lors de la **soutenance du projet** prévue le **19/06/2025**.
+La maîtrise de ces compétences sera évaluée lors du contrôle écrit prévu le **22/05/2026**.
 
 ---
 
-> 💜🧡 **JUNIA — Architecture Web AP3** | Document pédagogique compilant les séances 3, 4 et 5
+>  **JUNIA — Architecture Web ISEN-AP3** | Document pédagogique 
