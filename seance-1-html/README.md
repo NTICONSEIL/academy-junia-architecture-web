@@ -41,8 +41,6 @@
 
 - **TP 1** : `tp-1-cv-junia.pdf` (à déposer dans ce dossier)
 
-> ⚠️ **Note pour le formateur :** le fichier `tp-1-cv-junia.pdf` doit être déposé manuellement dans ce dossier. Il a été généré séparément avec la charte graphique JUNIA (cover violette, encadrés orange, maquette CV reproduite, grille d'évaluation).
-
 ---
 
 ## 🛠️ Outils utilisés
