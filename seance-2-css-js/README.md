@@ -1,6 +1,6 @@
 # 🎨 Séance 2 — CSS et JavaScript
 
-> **Durée :** 8h (2 demi-journées) | **Format :** Cours + TP guidé
+> **Durée :** 6h | **Format :** Cours + TP guidé
 
 ---
 
