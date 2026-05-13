@@ -1,7 +1,7 @@
-# 🎓 Architecture Web AP3 — JUNIA
+# 🎓 Architecture Web ISEN-AP3 — JUNIA
 
-> Cours d'Architecture Web pour la promotion **AP3 de JUNIA**
-> Volume horaire : **21h** | Soutenance : **19/06/2025**
+> Cours d'Architecture Web pour la promotion **ISEN-AP3 de JUNIA**
+> Volume horaire : **21h**
 
 ---
 
