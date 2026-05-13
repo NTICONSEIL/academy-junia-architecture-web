@@ -18,12 +18,12 @@
 
 ### Bloc CSS (3h)
 
-#### Partie 1 — Bases du CSS (1h30)
+#### Partie 1 — Bases du CSS (1h)
 - Méthodes d'intégration, syntaxe, sélecteurs
 - Stylisation des textes et des couleurs
 - Fonds et dégradés
 
-#### Partie 2 — CSS avancé (1h30)
+#### Partie 2 — CSS avancé (1h)
 - Bordures, ombres, transitions, effets `:hover`
 - Modèle de boîte (`margin`, `padding`, `border`)
 - `box-sizing: border-box`
@@ -33,14 +33,14 @@
 - CSS Grid (mise en page 2D)
 - Media Queries et responsive design
 
-### Bloc JavaScript (4h)
+### Bloc JavaScript (3h)
 
-#### Partie 4 — Bases du langage (1h30)
+#### Partie 4 — Bases du langage (1h)
 - Variables (`let`, `const`), types, opérateurs
 - Conditions, boucles, fonctions (classiques + arrow)
 - Tableaux et objets, méthodes `forEach`/`map`/`filter`
 
-#### Partie 5 — DOM et événements (1h30)
+#### Partie 5 — DOM et événements (1h)
 - Sélection d'éléments (`querySelector`)
 - Modification du contenu et des classes
 - Gestion des événements (`addEventListener`)
