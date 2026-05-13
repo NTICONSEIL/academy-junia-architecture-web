@@ -16,7 +16,7 @@
 
 ## 📋 Plan de la séance
 
-### Bloc CSS (4h)
+### Bloc CSS (3h)
 
 #### Partie 1 — Bases du CSS (1h30)
 - Méthodes d'intégration, syntaxe, sélecteurs
