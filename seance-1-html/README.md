@@ -18,19 +18,19 @@
 
 ## 📋 Plan de la séance
 
-### Partie 1 — Le Web et son architecture (1h)
+### Partie 1 — Le Web et son architecture (0h30)
 - Histoire du Web, principes fondamentaux
 - Architecture client-serveur, HTTP/HTTPS, URL
 - Stack typique : HTML + CSS + JavaScript (front) / PHP + MySQL (back)
 - Front-end, Back-end, Full-stack
 
-### Partie 2 — HTML : la structure (1h30)
+### Partie 2 — HTML : la structure (0h30)
 - Anatomie d'un document HTML
 - Balises, attributs, sémantique
 - Structuration (`<header>`, `<main>`, `<section>`, `<article>`, `<footer>`)
 - Texte, listes, images, liens, tableaux
 
-### Partie 3 — TP guidé : maquette du formulaire CV (1h30)
+### Partie 3 — TP guidé : maquette du formulaire CV (1h)
 - Mise en pratique des connaissances HTML
 - Construction du formulaire de saisie du CV (préfigure le projet final)
 - Voir [`tp-1-cv-junia.pdf`](./tp-1-cv-junia.pdf)
